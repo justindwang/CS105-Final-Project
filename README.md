@@ -1,6 +1,7 @@
 # CS105-Final-Project
 
 Make sure you have all the dependencies installed:
+
 pip install -U scikit-learn
 
 How to run the jupyter notebook:
