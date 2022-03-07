@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+Project Datasets/
+aclImdb/
+review_classifier.pkl
