@@ -3,6 +3,7 @@
 Make sure you have all the dependencies installed:
 
 pip install -U scikit-learn
+
 pip install wordcloud
 
 How to run the jupyter notebook:
