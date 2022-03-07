@@ -1,7 +1,7 @@
 # CS105-Final-Project
 
 How to run the jupyter notebook:
-(These following steps are optional. They are used for sampling a subset from the 50,000 review dataset)
+(These following 4 steps are optional. They are used for sampling a subset from the 50,000 review dataset)
 1. Unzip the aclImdb file 
 2. Create a folder named "Project Datasets"
 3. Create two subfolders inside "Project Datasets" called "pos" and "neg"
