@@ -3,7 +3,7 @@
 How to run the jupyter notebook:
 (These following 4 steps are optional. They are used for sampling a subset from the 50,000 review dataset)
 1. Unzip the aclImdb file 
-2. Create a folder named "Project Datasets"
+2. Create a folder named "Project Datasets" in the main project directory
 3. Create two subfolders inside "Project Datasets" called "pos" and "neg"
 4. Now you can run the first two code snippets of the jupyter notebook
 
