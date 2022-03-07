@@ -1,5 +1,8 @@
 # CS105-Final-Project
 
+Make sure you have all the dependencies installed:
+pip install -U scikit-learn
+
 How to run the jupyter notebook:
 (These following 4 steps are optional. They are used for sampling a subset from the 50,000 review dataset)
 1. Unzip the aclImdb file 
