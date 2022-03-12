@@ -2,13 +2,13 @@
 
 Make sure you have all the dependencies installed:
 
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-wordcloud
-pickle
+numpy  
+pandas  
+matplotlib  
+seaborn  
+scikit-learn  
+wordcloud  
+pickle  
 
 Now you should be able to run "Team 1 CS 105 Final Project.ipynb".
 
